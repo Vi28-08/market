@@ -1,0 +1,144 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("img1/backgr.jpg");
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.header {
+    background-color: #004445;
+    padding: 20px 0;
+}
+
+.header-logo img {
+    width: 50px;
+    height: auto;
+}
+
+.header-nav ul {
+    font-size: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-nav ul li {
+    display: inline;
+}
+
+.header-nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+.header-nav ul li a:hover {
+    background-color: #00796b;
+    border-radius: 4px;
+}
+
+.hero {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.hero-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.product-item {
+    width: 30%;
+    background-color: #C8DB9A;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.product-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.product-item h3 {
+    color: #004445;
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.product-item p {
+    color: #777777;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: #004445;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-section {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.footer-item h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.footer-item p {
+    font-size: 14px;
+}
+
+.footer-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.footer-nav ul li {
+    margin: 0 10px;
+}
+
+.footer-nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer-social a {
+    display: inline-block;
+    font-size: 1.2rem;
+    color: #f8f8f8;
+    padding: 5px;
+}
+
+
+.footer-rights {
+    margin: 10px 0;
+    font-size: 14px;
+}

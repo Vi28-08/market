@@ -124,6 +124,9 @@ button:active {
     margin-left: 6%;
     padding: 20px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    border-style: initial;
+    border-color: #9ae688;
 }
 
 h1 {

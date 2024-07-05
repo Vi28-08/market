@@ -74,15 +74,6 @@ button {
   transition: all 0.3s;
 }
 
-button span {
-  color: white;
-  font-size: 20px;
-}
-
-button:hover span {
-  opacity: 0.8;
-}
-
 button:active {
   transform: scale(0.9);
 }

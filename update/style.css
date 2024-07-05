@@ -167,6 +167,8 @@ p {
 .item p {
   text-align: left;
   color: #666666;
+  border-radius: 6px;
+  background: linear-gradient(to right, rgb(158, 214, 180), #9ae688);
 }
 .footer {
   background-color: #004445;

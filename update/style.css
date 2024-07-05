@@ -74,7 +74,9 @@ button {
   transition: all 0.3s;
   font-size: larger;
 }
-
+button span {
+  color: #ffffff;
+}
 button:active {
   transform: scale(0.9);
 }
@@ -128,7 +130,9 @@ button:active {
     border-style: initial;
     border-color: #9ae688;
 }
-
+.infographic p {
+    color: #2f6658;
+}
 h1 {
     text-align: center;
     color: #333333;

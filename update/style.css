@@ -67,7 +67,7 @@ body {
 button {
   padding: 15px 40px;
   background-color: #0a4141;
-  border-radius: 5px;
+  border-radius: 30px;
   border: 2px solid #2f6658;
   cursor: pointer;
   outline: none;
@@ -125,6 +125,7 @@ button:active {
     background-color: #fcfcfc;
     width: 85%;
     margin-left: 6%;
+    margin-bottom: 5%;
     padding: 20px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     border-radius: 30px;

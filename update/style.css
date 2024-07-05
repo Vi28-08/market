@@ -84,6 +84,8 @@ button:active {
 .product-title {
   text-align: center;
   font-size: 36px;
+  color: #fefffb;
+  text-decoration:underline;
 }
 
 .products {

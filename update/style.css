@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url("img1/backgr.jpg");
+  background-image: url("img1/backgr.png");
 
 }
 
@@ -66,7 +66,7 @@ body {
 
 button {
   padding: 15px 40px;
-  background-color: #0f7c7e;
+  background-color: #0a4141;
   border-radius: 5px;
   border: 1px solid rgb(135, 235, 196);
   cursor: pointer;
